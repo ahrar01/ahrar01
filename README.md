@@ -28,7 +28,7 @@
 - 💬 Ask me about Android or any tech related stuff.
 - 📫 How to reach me: [Linkedin - @ahraar-alam](https://www.linkedin.com/in/ahraar-alam/)
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: i am an otaku.
+- ⚡ Fun fact: I am an otaku.
 
 [![Twitter: AhraarAlam](https://img.shields.io/twitter/follow/AhraarAlam?style=social)](https://twitter.com/AhraarAlam)
 [![Linkedin: ahraar-alam](https://img.shields.io/badge/-AhraarAlam-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ahraar-alam/)](https://www.linkedin.com/in/ahraar-alam/)

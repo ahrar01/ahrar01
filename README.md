@@ -23,11 +23,11 @@
 <br/>
 <br/>
 
-- 🔭 I’m currently working on Sapicons Limited.
-- 🌱 I’m currently learning React.
+- 🔭 Open to Work.
+- 🌱 I’m currently learning React and Flutter.
 - 💬 Ask me about Android or any tech related stuff.
 - 📫 How to reach me: [Linkedin - @ahraar-alam](https://www.linkedin.com/in/ahraar-alam/)
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I am an otaku.
 
 [![Twitter: AhraarAlam](https://img.shields.io/twitter/follow/AhraarAlam?style=social)](https://twitter.com/AhraarAlam)

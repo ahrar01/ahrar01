@@ -23,8 +23,7 @@
 <br/>
 <br/>
 
-- 🔭 Open to Work.
-- 🌱 I’m currently learning React and Flutter.
+- 🌱 I’m currently learning Flutter and Backend.
 - 💬 Ask me about Android or any tech related stuff.
 - 📫 How to reach me: [Linkedin - @ahraar-alam](https://www.linkedin.com/in/ahraar-alam/)
 - 🥅 Goals: Contribute more to Open Source projects
